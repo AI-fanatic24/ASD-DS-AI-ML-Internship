@@ -2,4 +2,4 @@
 
 This repository contains all training assignments oand projects of this internship.
 
-Assignments are present in the branch named "Assignments".  Projects are present in the branch named "Projects".
+Assignments are present in the branch named "Assignments".  "Loan Approval Data Analysis" project is present in the branch named "Loan Approval Data Analysis Project".
