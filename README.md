@@ -2,5 +2,4 @@
 
 This repository contains all training assignments oand projects of this internship.
 
-Assignments are present in the branch named "assignments".
-Projects are present in the branch named "projects".
+Assignments are present in the branch named "Assignments".  Projects are present in the branch named "Projects".
